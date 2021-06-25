@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jos-ren
+- 👀 I’m interested in creating new and interesting code!
+- 🌱 I’m currently learning python
