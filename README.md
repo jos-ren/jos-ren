@@ -2,6 +2,8 @@
 
 😎 My name's Josh Renema
 <br/>
+💻 Currently working for <a href="https://techiesoftomorrow.com/"> Techies of Tomorrow</a>
+<br/>
 👀 I’m always interested in creating new and interesting code!
 <br/>
 🎓 I studied Full Stack Development at BCIT's <a href="https://www.bcit.ca/programs/digital-design-and-development-diploma-full-time-6405dipma/"> D3 Program</a>
