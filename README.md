@@ -6,7 +6,7 @@
 <br/>
 👀 I’m always interested in creating new and interesting code!
 <br/>
-🎓 I studied Full Stack Development at BCIT's <a href="https://www.bcit.ca/programs/digital-design-and-development-diploma-full-time-6405dipma/"> D3 Program</a>
+🎓 I studied Full Stack Development at BCIT
 <br/>
 🌱 Love coding with React / Node
 <br/>
