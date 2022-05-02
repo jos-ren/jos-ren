@@ -2,7 +2,7 @@
 
 😎 My name's Josh Renema
 <br/>
-💻 Currently working for <a href="https://techiesoftomorrow.com/"> Techies of Tomorrow</a>
+💻 Currently Freelancing
 <br/>
 👀 I’m always interested in creating new and interesting code!
 <br/>
