@@ -6,8 +6,6 @@
 <br/>
 👀 I’m always interested in creating new and interesting code!
 <br/>
-🐍 Currently learning Python
-<br/>
 🎓 I studied Full Stack Development at BCIT
 <br/>
 🌱 Specialize in coding with React / Node.js
