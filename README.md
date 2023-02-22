@@ -6,7 +6,7 @@
 <br/>
 👀 I’m always interested in creating new and interesting code!
 <br/>
-🐍 Learning python right now
+🐍 Learning Python
 <br/>
 🎓 I studied Full Stack Development at BCIT
 <br/>
