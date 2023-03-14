@@ -4,7 +4,7 @@
 <br/>
 💻 Currently Freelancing & Creating Personal Projects
 <br/>
-❤️ Love developing amazing UIs using React!
+❤️ Love developing interesting apps using React!
 <br/>
 🐍 Learning Python
 <br/>
