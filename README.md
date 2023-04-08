@@ -2,7 +2,7 @@
 
 😎 My name's Josh Renema
 <br/>
-💻 Currently Freelancing & Creating Personal Projects
+💻 Currently Creating Personal Projects
 <br/>
 ❤️ Love developing interesting apps using React!
 <br/>
