@@ -2,8 +2,6 @@
 
 😎 My name's Josh Renema
 <br/>
-💻 Currently Creating Personal Projects
-<br/>
 ❤️ Love developing interesting apps using React!
 <br/>
 🐍 Learning Python
