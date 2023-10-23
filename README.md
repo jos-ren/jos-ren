@@ -1,15 +1,14 @@
 <h1>👋 Hey there</h1>
 
-<h3>Welcome to my page! </br> I'm <b>Josh Renema</b>, Fullstack developer from 🍁 Vancouver, Canada</h3>
+<h4>Welcome to my page! I'm <b>Josh Renema</b>, Fullstack developer from 🍁 Vancouver, Canada</h4>
 
 <h1>😀 Reach me here</h1>
-<p>
-<a href="www.josren.ca" target="_blank">Portfolio</a>
-  <br/>
-<a href="https://www.linkedin.com/in/josh-renema/" target="_blank">LinkedIn</a>
-  <br/>
-<a href="mailto:josh.renema@protonmail.com" target="_blank">Email</a>
-</p>
+
+<ul style={{fontSize:"100pt"}}>
+  <li><a href="www.josren.ca" target="_blank">Portfolio</a></li>
+  <li><a href="https://www.linkedin.com/in/josh-renema/" target="_blank">LinkedIn</a></li>
+  <li><a href="mailto:josh.renema@protonmail.com" target="_blank">Email</a></li>
+</ul>
 
 <h1>🚀 Things I code with</h1>
 <p>
