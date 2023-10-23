@@ -9,3 +9,5 @@
 🎓 Studied @ BCIT
 <br/>
 💬 Feel free to shoot me a message on <a href="https://www.linkedin.com/in/josh-renema/">Linkedin!</a> or see my <a href="https://josren.ca">Portfolio</a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jos-ren&show_icons=true&theme=transparent)
