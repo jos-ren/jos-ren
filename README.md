@@ -1,8 +1,8 @@
 <h1>👋 Hey there</h1>
 
-<h4>Welcome to my page! I'm <b>Josh Renema</b>, Fullstack developer from 🍁 Vancouver, Canada</h4>
+<p>Welcome to my page! I'm <b>Josh Renema</b>, Fullstack Developer from 🍁 Vancouver, Canada</p>
 
-<h1>😀 Reach me here</h1>
+<h1>💬 Reach me here</h1>
 
 <ul style={{fontSize:"100pt"}}>
   <li><a href="www.josren.ca" target="_blank">Portfolio</a></li>
