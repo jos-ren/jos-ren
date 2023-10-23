@@ -1,10 +1,10 @@
 <h1>👋 Hey there</h1>
 
-<p>Welcome to my page! I'm <b>Josh Renema</b>, Fullstack Developer from 🍁 Vancouver, Canada</p>
+<p style="font-size:20pt;">Welcome to my page! I'm <b>Josh Renema</b>, Fullstack Developer from 🍁 Vancouver, Canada</p>
 
 <h1>🎉 Reach me here</h1>
 
-<ul style={{fontSize:"100pt"}}>
+<ul>
   <li><a href="www.josren.ca" target="_blank">Portfolio</a></li>
   <li><a href="https://www.linkedin.com/in/josh-renema/" target="_blank">LinkedIn</a></li>
   <li><a href="mailto:josh.renema@protonmail.com" target="_blank">Email</a></li>
