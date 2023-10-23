@@ -1,6 +1,6 @@
 <h1>👋 Hey there</h1>
 
-<p style="font-size:20pt;">Welcome to my page! I'm <b>Josh Renema</b>, Fullstack Developer from 🍁 Vancouver, Canada</p>
+<p style="font-size:20px;">Welcome to my page! I'm <b>Josh Renema</b>, Fullstack Developer from 🍁 Vancouver, Canada</p>
 
 <h1>🎉 Reach me here</h1>
 
