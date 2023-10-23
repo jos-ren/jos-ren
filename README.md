@@ -9,7 +9,7 @@
 🎓 Studied @ BCIT
 <br/>
 💬 Feel free to shoot me a message on <a href="https://www.linkedin.com/in/josh-renema/">Linkedin!</a> or see my <a href="https://josren.ca">Portfolio</a>
-
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jos-ren)](https://github.com/anuraghazra/github-readme-stats)
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
