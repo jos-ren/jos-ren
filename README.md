@@ -1,6 +1,6 @@
 <h1>👋 Hey there</h1>
 
-😎 My name's Josh Renema
+<p>Welcome to my page! </br> I'm Josh Renema, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197430.png " width="13"/> <b>Vancouver, Canada</b></p>
 <br/>
 ❤️ Love developing interesting apps using React!
 <br/>
@@ -10,8 +10,6 @@
 <br/>
 💬 Feel free to shoot me a message on <a href="https://www.linkedin.com/in/josh-renema/">Linkedin!</a> or see my <a href="https://josren.ca">Portfolio</a>
 
-
-<p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
