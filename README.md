@@ -10,6 +10,8 @@
   <li><a href="mailto:josh.renema@protonmail.com" target="_blank">Email</a></li>
 </ul>
 
+![](https://komarev.com/ghpvc/?username=jos-ren)
+
 <h1>🚀 Things I code with</h1>
 <p>
   
