@@ -10,8 +10,6 @@
   <li><a href="mailto:josh.renema@protonmail.com" target="_blank">Email</a></li>
 </ul>
 
-![](https://komarev.com/ghpvc/?username=jos-ren)
-
 <h1>🚀 Things I code with</h1>
 <p>
   
@@ -42,6 +40,8 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 </p>
+
+![](https://komarev.com/ghpvc/?username=jos-ren)
 
 
 
