@@ -5,7 +5,7 @@
 <h1>🎉 Reach me here</h1>
 
 <ul>
-  <li><a href="www.josren.ca" target="_blank">Portfolio</a></li>
+  <li><a href="https://www.josren.ca" target="_blank">Portfolio</a></li>
   <li><a href="https://www.linkedin.com/in/josh-renema/" target="_blank">LinkedIn</a></li>
   <li><a href="mailto:josh.renema@protonmail.com" target="_blank">Email</a></li>
 </ul>
