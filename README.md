@@ -9,7 +9,7 @@ I'm Josh, a full stack developer with a soft spot for design, living in beautifu
 
 If you have a project that mixes solid code with good design, [send me a message](mailto:josh@renema.ca). I'm always up for something new.
 
-[josren.ca](https://josren.ca) · [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) · [Email](mailto:josh@renema.ca)
+[josren.ca](https://josren.ca) · [LinkedIn](https://www.linkedin.com/in/josh-renema/) · [Email](mailto:josh@renema.ca)
 
 ![](https://komarev.com/ghpvc/?username=jos-ren)
 
